@@ -80,6 +80,7 @@ public class ZXGame_Sing_Helper {
 
             System.out.println("\n");
 //好帅
+            //second update
         }
     }
 }
